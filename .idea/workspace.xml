@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2123b82d-17bb-499c-8a26-7375748a327e" name="Default Changelist" comment="" />
+    <list default="true" id="2123b82d-17bb-499c-8a26-7375748a327e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572077172464</updated>
-      <workItem from="1572077173641" duration="3593000" />
+      <workItem from="1572077173641" duration="3993000" />
+      <workItem from="1572082018086" duration="57000" />
     </task>
     <task id="LOCAL-00001" summary="set config-1">
       <created>1572077720718</created>
@@ -224,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572081124414</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="去掉中间的字">
+      <created>1572081272205</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572081272205</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +257,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -269,6 +283,7 @@
     <MESSAGE value="修改标签次数" />
     <MESSAGE value="删除描述" />
     <MESSAGE value="试试" />
-    <option name="LAST_COMMIT_MESSAGE" value="试试" />
+    <MESSAGE value="去掉中间的字" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉中间的字" />
   </component>
 </project>
