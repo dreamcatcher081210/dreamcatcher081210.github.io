@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2123b82d-17bb-499c-8a26-7375748a327e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/other/2019-10-26-快速搭建个人博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/other/2019-10-26-快速搭建个人博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +13,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +45,9 @@
     <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.RegionConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/other" />
     </key>
@@ -59,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572077172464</updated>
-      <workItem from="1572077173641" duration="1829000" />
+      <workItem from="1572077173641" duration="2295000" />
     </task>
     <task id="LOCAL-00001" summary="set config-1">
       <created>1572077720718</created>
@@ -103,11 +121,42 @@
       <option name="project" value="LOCAL" />
       <updated>1572079351483</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="set-1">
+      <created>1572079406353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572079406353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="set-2">
+      <created>1572079537468</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572079537468</updated>
+    </task>
+    <task id="LOCAL-00009" summary="set-3">
+      <created>1572079628229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572079628229</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -127,6 +176,9 @@
     <MESSAGE value="commit-3" />
     <MESSAGE value="commit-4" />
     <MESSAGE value="commit-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit-5" />
+    <MESSAGE value="set-1" />
+    <MESSAGE value="set-2" />
+    <MESSAGE value="set-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="set-3" />
   </component>
 </project>
