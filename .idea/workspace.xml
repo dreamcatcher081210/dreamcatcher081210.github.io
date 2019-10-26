@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2123b82d-17bb-499c-8a26-7375748a327e" name="Default Changelist" comment="">
+    <list default="true" id="2123b82d-17bb-499c-8a26-7375748a327e" name="Default Changelist" comment="添加知乎账号">
+      <change afterPath="$PROJECT_DIR$/img/dino.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about-BY-gentle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572077172464</updated>
-      <workItem from="1572077173641" duration="958000" />
+      <workItem from="1572077173641" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="set config-1">
       <created>1572077720718</created>
@@ -65,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572077720718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加谷歌分析">
+      <created>1572078527259</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572078527259</updated>
+    </task>
+    <task id="LOCAL-00003" summary="屏蔽谷歌账号">
+      <created>1572078633193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572078633193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set config-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="set config-1" />
+    <MESSAGE value="添加谷歌分析" />
+    <MESSAGE value="屏蔽谷歌账号" />
+    <option name="LAST_COMMIT_MESSAGE" value="屏蔽谷歌账号" />
   </component>
 </project>
