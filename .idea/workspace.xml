@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2123b82d-17bb-499c-8a26-7375748a327e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/2019-10-26-快速搭建个人博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/other/2019-10-26-快速搭建个人博客.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572077172464</updated>
-      <workItem from="1572077173641" duration="3297000" />
+      <workItem from="1572077173641" duration="3423000" />
     </task>
     <task id="LOCAL-00001" summary="set config-1">
       <created>1572077720718</created>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572080941711</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="删除描述">
+      <created>1572080988034</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1572080988034</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +254,7 @@
     <MESSAGE value="set-8" />
     <MESSAGE value="set-9" />
     <MESSAGE value="修改标签次数" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改标签次数" />
+    <MESSAGE value="删除描述" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除描述" />
   </component>
 </project>
