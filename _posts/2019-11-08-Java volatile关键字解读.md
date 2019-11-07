@@ -39,7 +39,7 @@ volatile：说了半天不就是我吗？
 
 这个时候其它处理器的缓存还是旧值，所以在多处理器环境下，为了确保各处理器缓存一致，每个处理器会嗅探在总线上传播的数据来检查自己的缓存是否有效，当处理器发现自己的缓存行对应的内存地址与总线上传播的对应数据内存地址不一样，就会将当前处理器的缓存行设置成无效状态，当这个处理器对此数据进行修改操作时（一定包含读操作），会强制从主存中把最新的数据读取到处理器缓存中。这一步确保了其它线程获取声明了volatile的变量都是主存中的最新值。
 
-![volatile流程图.png](https://upload-images.jianshu.io/upload_images/7190871-6b8a66b3a3edc611.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![volatile流程图.png](https://upload-images.jianshu.io/upload_images/7190871-1850a6c99552fb71.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 三、应用
 
