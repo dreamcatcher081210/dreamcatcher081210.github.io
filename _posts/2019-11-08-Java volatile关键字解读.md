@@ -41,11 +41,14 @@ volatile：说了半天不就是我吗？
 
 ![volatile流程图.png](https://upload-images.jianshu.io/upload_images/7190871-1850a6c99552fb71.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+上面的流程图展示了volatile的原理，以及volatile无法满足原子性的原因。
+
 ### 三、应用
 
+上一篇提到的AQS，内部维护的state变量就是被volatile所修饰的，在ReentrantLock可重入锁里，state代表的就是持有锁的次数，state为0代表没有线程获取锁。
 
-
-### 四、应用
+### 四、结束
+volatile无法保证原子性，但是可以保证可见性和有序性。
 
 
 
